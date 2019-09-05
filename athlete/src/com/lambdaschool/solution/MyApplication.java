@@ -15,8 +15,6 @@ public class MyApplication implements Processor
         this.court = court;
     }
 
-
-
     @Override
     public void displayAthlete(String sportname)
     {
